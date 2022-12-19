@@ -1,3 +1,5 @@
+public class plusOut {
+
 public String plusOut(String str, String word) {
   String result="";
   int a=word.length();
@@ -10,3 +12,5 @@ public String plusOut(String str, String word) {
     result=result + "+";
   }
   return result;
+}
+}

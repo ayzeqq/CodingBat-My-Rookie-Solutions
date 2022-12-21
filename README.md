@@ -1,1 +1,1 @@
-# çaylaklık sürecimde codingbat sorularının kendimce çözümlerini depoluyorum.
+# I'm storing my rookie solutions to codingbat questions.
